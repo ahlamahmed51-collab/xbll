@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xbll-ruby.vercel.app/sitemap.xml
